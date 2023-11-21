@@ -70,8 +70,12 @@
 
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
+
+https://github.com/ryavse11/ryan_work_samples/assets/151677676/f8b6c7b6-1963-4350-8d52-9059291a3d98
   
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>
+  <code><img src="https://github.com/ryavse11/ryan_work_samples/assets/151677676/f8b6c7b6-1963-4350-8d52-9059291a3d98"></code>
+
+  
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
